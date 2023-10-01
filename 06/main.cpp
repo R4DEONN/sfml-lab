@@ -1,6 +1,6 @@
-#include "C:/SFML/include/SFML/Graphics.hpp"
-#include "C:/SFML/include/SFML/System.hpp"
-#include "C:/SFML/include/SFML/Window.hpp"
+#include "SFML/Graphics.hpp"
+#include "SFML/System.hpp"
+#include "SFML/Window.hpp"
 
 int main()
 {

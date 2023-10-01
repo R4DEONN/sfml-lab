@@ -1,6 +1,6 @@
 add_executable(01 main.cpp)
 
-include_directories(headers C:/SFML/include/SFML)
+include_directories(headers ../SFML/include)
 
 set(CMAKE_BUILD_TYPE Release)
 
