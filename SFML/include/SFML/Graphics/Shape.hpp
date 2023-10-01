@@ -28,11 +28,11 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Graphics/Export.hpp>
-#include <C:/SFML/include/SFML/Graphics/Drawable.hpp>
-#include <C:/SFML/include/SFML/Graphics/Transformable.hpp>
-#include <C:/SFML/include/SFML/Graphics/VertexArray.hpp>
-#include <C:/SFML/include/SFML/System/Vector2.hpp>
+#include <SFML/Graphics/Export.hpp>
+#include <SFML/Graphics/Drawable.hpp>
+#include <SFML/Graphics/Transformable.hpp>
+#include <SFML/Graphics/VertexArray.hpp>
+#include <SFML/System/Vector2.hpp>
 
 
 namespace sf

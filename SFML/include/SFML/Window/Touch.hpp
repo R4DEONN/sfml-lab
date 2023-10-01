@@ -28,8 +28,8 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Window/Export.hpp>
-#include <C:/SFML/include/SFML/System/Vector2.hpp>
+#include <SFML/Window/Export.hpp>
+#include <SFML/System/Vector2.hpp>
 
 
 namespace sf

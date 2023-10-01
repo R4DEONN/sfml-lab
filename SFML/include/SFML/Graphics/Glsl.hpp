@@ -28,10 +28,10 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Graphics/Transform.hpp>
-#include <C:/SFML/include/SFML/Graphics/Color.hpp>
-#include <C:/SFML/include/SFML/System/Vector2.hpp>
-#include <C:/SFML/include/SFML/System/Vector3.hpp>
+#include <SFML/Graphics/Transform.hpp>
+#include <SFML/Graphics/Color.hpp>
+#include <SFML/System/Vector2.hpp>
+#include <SFML/System/Vector3.hpp>
 
 
 namespace sf

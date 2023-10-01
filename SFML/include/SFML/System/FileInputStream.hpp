@@ -28,10 +28,10 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Config.hpp>
-#include <C:/SFML/include/SFML/System/Export.hpp>
-#include <C:/SFML/include/SFML/System/InputStream.hpp>
-#include <C:/SFML/include/SFML/System/NonCopyable.hpp>
+#include <SFML/Config.hpp>
+#include <SFML/System/Export.hpp>
+#include <SFML/System/InputStream.hpp>
+#include <SFML/System/NonCopyable.hpp>
 #include <cstdio>
 #include <string>
 

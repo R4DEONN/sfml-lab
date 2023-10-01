@@ -28,8 +28,8 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/System/Export.hpp>
-#include <C:/SFML/include/SFML/System/Utf.hpp>
+#include <SFML/System/Export.hpp>
+#include <SFML/System/Utf.hpp>
 #include <iterator>
 #include <locale>
 #include <string>

@@ -29,33 +29,33 @@
 // Headers
 ////////////////////////////////////////////////////////////
 
-#include <C:/SFML/include/SFML/Window.hpp>
-#include <C:/SFML/include/SFML/Graphics/BlendMode.hpp>
-#include <C:/SFML/include/SFML/Graphics/CircleShape.hpp>
-#include <C:/SFML/include/SFML/Graphics/Color.hpp>
-#include <C:/SFML/include/SFML/Graphics/ConvexShape.hpp>
-#include <C:/SFML/include/SFML/Graphics/Drawable.hpp>
-#include <C:/SFML/include/SFML/Graphics/Font.hpp>
-#include <C:/SFML/include/SFML/Graphics/Glyph.hpp>
-#include <C:/SFML/include/SFML/Graphics/Image.hpp>
-#include <C:/SFML/include/SFML/Graphics/PrimitiveType.hpp>
-#include <C:/SFML/include/SFML/Graphics/Rect.hpp>
-#include <C:/SFML/include/SFML/Graphics/RectangleShape.hpp>
-#include <C:/SFML/include/SFML/Graphics/RenderStates.hpp>
-#include <C:/SFML/include/SFML/Graphics/RenderTarget.hpp>
-#include <C:/SFML/include/SFML/Graphics/RenderTexture.hpp>
-#include <C:/SFML/include/SFML/Graphics/RenderWindow.hpp>
-#include <C:/SFML/include/SFML/Graphics/Shader.hpp>
-#include <C:/SFML/include/SFML/Graphics/Shape.hpp>
-#include <C:/SFML/include/SFML/Graphics/Sprite.hpp>
-#include <C:/SFML/include/SFML/Graphics/Text.hpp>
-#include <C:/SFML/include/SFML/Graphics/Texture.hpp>
-#include <C:/SFML/include/SFML/Graphics/Transform.hpp>
-#include <C:/SFML/include/SFML/Graphics/Transformable.hpp>
-#include <C:/SFML/include/SFML/Graphics/Vertex.hpp>
-#include <C:/SFML/include/SFML/Graphics/VertexArray.hpp>
-#include <C:/SFML/include/SFML/Graphics/VertexBuffer.hpp>
-#include <C:/SFML/include/SFML/Graphics/View.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/Graphics/BlendMode.hpp>
+#include <SFML/Graphics/CircleShape.hpp>
+#include <SFML/Graphics/Color.hpp>
+#include <SFML/Graphics/ConvexShape.hpp>
+#include <SFML/Graphics/Drawable.hpp>
+#include <SFML/Graphics/Font.hpp>
+#include <SFML/Graphics/Glyph.hpp>
+#include <SFML/Graphics/Image.hpp>
+#include <SFML/Graphics/PrimitiveType.hpp>
+#include <SFML/Graphics/Rect.hpp>
+#include <SFML/Graphics/RectangleShape.hpp>
+#include <SFML/Graphics/RenderStates.hpp>
+#include <SFML/Graphics/RenderTarget.hpp>
+#include <SFML/Graphics/RenderTexture.hpp>
+#include <SFML/Graphics/RenderWindow.hpp>
+#include <SFML/Graphics/Shader.hpp>
+#include <SFML/Graphics/Shape.hpp>
+#include <SFML/Graphics/Sprite.hpp>
+#include <SFML/Graphics/Text.hpp>
+#include <SFML/Graphics/Texture.hpp>
+#include <SFML/Graphics/Transform.hpp>
+#include <SFML/Graphics/Transformable.hpp>
+#include <SFML/Graphics/Vertex.hpp>
+#include <SFML/Graphics/VertexArray.hpp>
+#include <SFML/Graphics/VertexBuffer.hpp>
+#include <SFML/Graphics/View.hpp>
 
 
 #endif // SFML_GRAPHICS_HPP

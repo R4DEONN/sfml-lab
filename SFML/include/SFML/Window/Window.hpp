@@ -28,17 +28,17 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Window/ContextSettings.hpp>
-#include <C:/SFML/include/SFML/Window/Cursor.hpp>
-#include <C:/SFML/include/SFML/Window/Export.hpp>
-#include <C:/SFML/include/SFML/Window/GlResource.hpp>
-#include <C:/SFML/include/SFML/Window/VideoMode.hpp>
-#include <C:/SFML/include/SFML/Window/WindowHandle.hpp>
-#include <C:/SFML/include/SFML/Window/WindowStyle.hpp>
-#include <C:/SFML/include/SFML/System/Clock.hpp>
-#include <C:/SFML/include/SFML/System/NonCopyable.hpp>
-#include <C:/SFML/include/SFML/System/String.hpp>
-#include <C:/SFML/include/SFML/System/Vector2.hpp>
+#include <SFML/Window/ContextSettings.hpp>
+#include <SFML/Window/Cursor.hpp>
+#include <SFML/Window/Export.hpp>
+#include <SFML/Window/GlResource.hpp>
+#include <SFML/Window/VideoMode.hpp>
+#include <SFML/Window/WindowHandle.hpp>
+#include <SFML/Window/WindowStyle.hpp>
+#include <SFML/System/Clock.hpp>
+#include <SFML/System/NonCopyable.hpp>
+#include <SFML/System/String.hpp>
+#include <SFML/System/Vector2.hpp>
 
 
 namespace sf

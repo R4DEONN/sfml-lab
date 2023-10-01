@@ -28,8 +28,8 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Config.hpp>
-#include <C:/SFML/include/SFML/System/Export.hpp>
+#include <SFML/Config.hpp>
+#include <SFML/System/Export.hpp>
 
 
 namespace sf

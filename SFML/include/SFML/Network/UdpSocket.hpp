@@ -28,9 +28,9 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Network/Export.hpp>
-#include <C:/SFML/include/SFML/Network/Socket.hpp>
-#include <C:/SFML/include/SFML/Network/IpAddress.hpp>
+#include <SFML/Network/Export.hpp>
+#include <SFML/Network/Socket.hpp>
+#include <SFML/Network/IpAddress.hpp>
 #include <vector>
 
 

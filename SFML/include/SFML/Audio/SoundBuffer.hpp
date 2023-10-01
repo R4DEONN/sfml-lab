@@ -28,9 +28,9 @@
 ////////////////////////////////////////////////////////////
 // Headers
 ////////////////////////////////////////////////////////////
-#include <C:/SFML/include/SFML/Audio/Export.hpp>
-#include <C:/SFML/include/SFML/Audio/AlResource.hpp>
-#include <C:/SFML/include/SFML/System/Time.hpp>
+#include <SFML/Audio/Export.hpp>
+#include <SFML/Audio/AlResource.hpp>
+#include <SFML/System/Time.hpp>
 #include <string>
 #include <vector>
 #include <set>
